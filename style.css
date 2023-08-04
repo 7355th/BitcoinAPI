@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+    background-image: url(jinxovo.jpg_large);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+h2{
+    color: aliceblue;
+}
+
+button{
+    color: aliceblue;
+}
+
+h4{
+    color: aliceblue;
+}
+
+input{
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+}
